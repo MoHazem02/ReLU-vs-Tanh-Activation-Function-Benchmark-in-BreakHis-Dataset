@@ -4,6 +4,10 @@ This project compares the performance of **ReLU** and **Tanh** activation functi
 
 ---
 
+
+<img width="1160" height="504" alt="Untitled" src="https://github.com/user-attachments/assets/93597051-db5b-4e03-a0db-452eeee17f92" />
+
+
 ## 📁 Project Overview
 
 This study aims to explore how the choice of activation function affects a CNN’s **training behavior**, **accuracy**, and **convergence** in a real-world medical imaging dataset.
@@ -59,22 +63,6 @@ Both models used:
 
 ---
 
-## 📈 Visualizations
-
-The project includes high-quality plots generated with **Matplotlib**:
-
-- **Accuracy Curves:** Training and validation accuracy across epochs  
-- **Loss Curves:** Model convergence and stability  
-- **Final Accuracy Bar Chart:** Direct comparison of both models
-
-<p align="center">
-  <img src="figures/accuracy_plot.png" width="300"/>
-  <img src="figures/loss_plot.png" width="300"/>
-  <img src="figures/test_accuracy_bar.png" width="250"/>
-</p>
-
----
-
 ## 🧩 Key Insights
 
 - **ReLU outperforms Tanh** in deeper CNNs due to reduced vanishing gradient effects.  
@@ -93,6 +81,9 @@ The project includes high-quality plots generated with **Matplotlib**:
 - **tqdm**
 
 ---
+
+<img width="790" height="590" alt="Untitled" src="https://github.com/user-attachments/assets/f63f4f76-0a3d-4c16-b9ab-edf3b8ef0b8e" />
+
 
 ## 🧠 Future Work
 
